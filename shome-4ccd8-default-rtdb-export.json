@@ -1,0 +1,14 @@
+{
+  "Devices": {
+    "Air": "OFF",
+    "Fan": "OFF",
+    "Health": "OFF",
+    "Light": "OFF",
+    "Tivi": "OFF",
+    "Wifi": "OFF",
+    "doam": "80",
+    "gas": "50",
+    "light": "100",
+    "nhietdo": 25
+  }
+}
